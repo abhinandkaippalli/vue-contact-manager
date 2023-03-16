@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Brad Gibson",
+      "company": "YouTube",
+      "email": "brad@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9876546787",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Glenda Kim",
+      "company": "Friend",
+      "email": "glenda@gmail.com",
+      "title": "freelancer",
+      "mobile": "8880009991",
+      "photo": "https://png.pngtree.com/png-vector/20190321/ourmid/pngtree-vector-users-icon-png-image_856952.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Vladeen Min",
+      "company": "Service",
+      "email": "vladeen@gmail.com",
+      "title": "Electrician",
+      "mobile": "9876546787",
+      "photo": "https://icon2.cleanpng.com/20180319/zpw/kisspng-computer-icons-icon-design-avatar-flat-face-icon-5ab06e33989270.1836221115215119876249.jpg",
+      "groupId": "4"
+    },
+    {
+      "name": "Rajan",
+      "photo": "https://icon2.cleanpng.com/20180402/oaq/kisspng-computer-icons-avatar-login-user-avatar-5ac207e6760664.4895544815226654464834.jpg",
+      "mobile": "9090909090",
+      "email": "rajan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
